@@ -11,7 +11,8 @@ USB
 Battery
 
 Barrel connector
-(Yes, even all three—go wild.)
+(do note that when runing off of dc barrel/usb only 30 mA will be supplyed if runing all saos at ounce, but if you have charged batterys it will be 300 mA)
+
 
 Note: If you're charging and the badge is switched on, it’ll stop charging and use the power to run the SAOs instead.
 
