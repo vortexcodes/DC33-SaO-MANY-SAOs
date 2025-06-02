@@ -65,4 +65,6 @@ Every badge is tested before shipping. Unless you can prove there’s a real def
 
 Thanks for understanding—I love you, but I’m not Amazon.
 
+The gerbers may be released after def con.
+
 THIS WAS EDITED WITH AI, FYI
